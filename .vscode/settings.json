@@ -1,0 +1,14 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "calcmicfeatslib_emxutil.h": "c",
+        "calcmicfeatslib_initialize.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "findpeaks_emxapi.h": "c",
+        "findtafelparameters_emxutil.h": "c",
+        "dirent.h": "c",
+        "string.h": "c"
+    }
+}

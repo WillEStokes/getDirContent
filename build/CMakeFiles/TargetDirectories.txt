@@ -1,0 +1,3 @@
+C:/Users/menwst/Documents/C/getDirContent/build/CMakeFiles/getDirContent.dir
+C:/Users/menwst/Documents/C/getDirContent/build/CMakeFiles/edit_cache.dir
+C:/Users/menwst/Documents/C/getDirContent/build/CMakeFiles/rebuild_cache.dir
